@@ -7,7 +7,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre2">
-<ul><a href="#CRUD para atender a demanda de clientes">2º Semestre • 2/2022 • CRUD para atender a demanda de clientes</a>
+<ul><a href="#crud para atender a demanda de clientes">2º Semestre • 2/2022 • CRUD para atender a demanda de clientes</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
@@ -32,7 +32,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 <p align="center">• <a href="https://www.linkedin.com/in/alimohamedkhodr/">LinkedIn</a> • <a href="https://github.com/alimkhodr">GitHub</a> •</p>
 <hr>
 <div class="semestre2">
-<h3 id="CRUD para atender a demanda de clientes">CRUD para atender a demanda de clientes</h3>
+<h3>CRUD para atender a demanda de clientes</h3>
 <h4>2º Semestre • 2/2022 • <a href="https://github.com/alimkhodr/Projeto_API_TrackCash">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://trackcash.com.br/">Marketplaces e Plataformas</a></p>
 <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/trackcash.jpg" widht="20%"></img>
