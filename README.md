@@ -43,33 +43,33 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 <h3>Prévia da Solução </h3>
 <p align="justify">Criar uma aplicação Desktop Onde os usuários deem autorização, por meio de email/senha ou tokens para que o nosso cliente da TrackCash possa ter acesso a determinadas configurações como: API's e planilhas automatizadas, assim, o sistema salvará as informações necessárias.</p>
 <details>
-  <summary><b>Funcionalidade Cadastrar Fornecedor e Conta</b></summary>
+  <summary><b>Funcionalidade 1</b></summary>
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/poc_app.gif" alt=""/>
+      <td alignt="center"><img src="#" alt=""/>
       </td>     
     </tr>
   </table>
 </details>
-<p align="justify"> Para facilitar a obtenção de informações e agilizar o processo de digitação dos dados, foi adicionado junto à aplicação a API dos correios que traz os dados de endereço a partir do CEP do cliente.</p>
+<p align="justify">Descrição da Funcionalidade 2</p>
 <details>
-  <summary><b>Detalhe API dos correios na funcionalidade cadastro de cliente</b></summary>
+  <summary><b>Funcionalidade 2</b></summary>
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/api_correios.gif" alt=""/>
+      <td alignt="center"><img src="#" alt=""/>
       </td>     
     </tr>
   </table>
 </details>
-<p align="justify">Por fim, o usuário poderá realizar a edição das informações de cliente, fornecedor e conta de acordo com suas necessidades, realizando uma busca em nosso banco de dados</p>
+<p align="justify">Descrição da Funcionalidade 3</p>
 <details>
-  <summary><b>Funcionalidade Edição de Cliente, Fornecedor e/ou Conta</b></summary>
+  <summary><b>Funcionalidade 3</b></summary>
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/edit_poc.gif" alt=""/>
+      <td alignt="center"><img src="#" alt=""/>
       </td>     
     </tr>
   </table>
@@ -81,19 +81,16 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 <p align="justify"><a href="https://netbeans.apache.org/">Netbeans:</a> IDE utilizada para a programação da aplicação.</p>
 <br>
 <h3>Contribuições Pessoais </h3>
-<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto, 
-fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI. Além disso, fui responsável pelo desenvolvimento e arquitetura e construção de classes da funcionalidade cadastro de fornecedor, manipulação de objetos e criação de telas utilizando JAVA e o GUI Builder da IDE Eclipse. Sendo as atividades desempenhadas:</p>
+<p align="justify">Como parte do Scrum Team, fui responsável pela criação e prototipação da aplicação, e avancei nos estudos de UX/UI. Além disso, fui responsável pelo do modelo de dados da aplicação, criação de telas utilizando JAVA e o GUI Builder do Netbeans. Sendo as atividades desempenhadas:</p>
 <ul>
-  <li>Definição dos requisitos.</li>
   <li>UX/UI design.</li>
-  <li>Prototipação das wireframes.</li>
-  <li>Arquitetura da aplicação.</li>
-  <li>Desenvolvimento, construção de classes e manipulação dos objetos.</li>
+  <li>Prototipação.</li>
+  <li>Modelo de Dados.</li>
   <li>Desenvolvimento front-end utilizando GUI Builder</li>
 </ul>
 <br>
 <h3>Lições Aprendidas </h3>
-<p align="justify">Tive o meu primeiro contato com programação em Java, programação orientada à objetos e modelagem de banco de dados. Além disso, pude avançar em relação aos meus estudos como Product Owner e UX/UI designer.</p>
+<p align="justify">Tive o meu primeiro contato com programação em Java e com o Netbeans. Além disso, pude avançar em relação aos meus estudos como UX/UI designer.</p>
 <h3>Hard Skills </h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
@@ -173,8 +170,8 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
   </table>
 </details>
 <br>
-<p align="justify"><b>Proatividade:</b>por estar em um novo grupo com pessoas pouco conhecidas, a proatividade foi fundamental para que eu me entrosasse e realizasse as entregas.</p>
-<p align="justify"><b>Resiliência:</b> perdemos alguns membros ao longo do caminho e, por conta disso, precisei ser resiliente para assumir novas atividades, mesmo àquelas sem tanta afinidade.</p>
+<p align="justify"><b>Organização e Planejamento:</b>por ser uma nova linguagem era fundamental organizar e planejar nosso tempo em relação as sprints</p>
+<p align="justify"><b>Comunicação Assertiva:</b>Como no nosso grupo a maioria ja se conhecia há bastante tempo a comunicação não era um problema muito grande, sempre comuniquei o grpo do que está sendo feito</p>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
 </di>
