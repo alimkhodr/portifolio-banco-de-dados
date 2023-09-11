@@ -7,7 +7,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre2">
-<ul><a href="#CRUD para atender a demanda de clientes">2º Semestre • 2/2022 • CRUD para atender a demanda de clientes</a>
+<ul><a href="#CRUD-para-atender-a-demanda-de-clientes">2º Semestre • 2/2022 • CRUD para atender a demanda de clientes</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
