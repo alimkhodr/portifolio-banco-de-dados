@@ -23,7 +23,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </div>
 <hr>
 <h2>Sobre mim</h2>
-<p align="center"><img src="[https://github.com/alimkhodr/PorfolioBancoDeDados/blob/main/Resume/AliMohamed.png](https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/Resume/AliMohamed.png)" width="20%"></p>
+<p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/Resume/AliMohamed.png" width="20%"></p>
 <p align="justify">Técnico em Desenvovimento de Sistemas pela Escola Técnica Estadual de São José dos Campos (ETEC), 
 e regularmente matriculado no 2º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos (FATEC).</p>
