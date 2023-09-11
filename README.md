@@ -7,7 +7,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre2">
-<ul><a href="#processos-otimizados-de-contas">2º Semestre • 2/2020 • Processos Otimizados de Contas</a>
+<ul><a href="#processos-otimizados-de-contas">2º Semestre • 2/2022 • CRUD para atender a demanda de clientes</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
@@ -27,33 +27,27 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p align="justify">Técnico em Desenvovimento de Sistemas pela Escola Técnica Estadual de São José dos Campos (ETEC), 
 e regularmente matriculado no 2º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
 Tecnologia de São José dos Campos (FATEC).</p>
-<p align="justify">Possuo experiência na área de Tecnologia. Durante esse período, tive a oportunidade de desenvolver sistemas inteligentes 
-e modelos matemáticos em parceria com o Departamento de Agricultura dos Estados Unidos (USDA). Trabelhei com Gestão de Projetos e Portfólio nas áreas 
-de Supply Chain Technology e Construção Civil. Além disso, atuei em análise e governança de dados em system reliability e data quality.</p>
-<p align="justify">Atualmente sou analista de tecnologia financeira na Johnson & Johnson, trabalho com Digital Transformation, 
-automatizando processos na área com ferramentas low-code (Power Platform), em desenvolvimento como especialista na plataforma Anaplan 
-e atuando como product owner na implementação de metodologia ágil para o time de suporte de finanças e em projetos de business intelligence junto ao 
-departamento jurídico.</p>
+<p align="justify">Atualmente sou estágiario de tecnologia na APTIV Jambeiro, trabalho com desinvolvimento de aplicações, 
+desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Application em Visual Basic e C# e SQL no Microsoft SQL Server </p>
 <p align="center">• <a href="https://www.linkedin.com/in/alimohamedkhodr/">LinkedIn</a> • <a href="https://github.com/alimkhodr">GitHub</a> •</p>
 <hr>
 <div class="semestre2">
-<h3>Processos Otimizados de Contas</h3>
-<h4>2º Semestre • 2/2020 • <a href="https://github.com/alimkhodr/Projeto_API_TrackCash">Repositório Github</a></h4>
-<p align="justify">Parceiro Acadêmico: <a href="https://trackcash.com.br/">TecSUS Tecnologias para a Sustentabilidade</a></p>
-<p align="center"><img src="https://github.com/alimkhodr/PorfolioBancoDeDados/blob/main/2Sem/poc_img.png" widht="20%"></img>
-<p align="justify">POC, <a href="https://github.com/alimkhodr/Projeto_API_TrackCash">Processos Otimizados de Contas</a>, é uma aplicação que facilita e otimiza a inserção de informações de contas despradonizadas de energia e água. Devido a grande diversidade de layouts nas contas de água e energia no Brasil, a digitalização dos dados de interesse para empresa, torna-se uma tarefa árdua e dispendiosa.</p>
-<p align="justify">Dessa forma, a aplicação POC tem o objetivo de facilitar o trabalho com a digitação de dados fornecendo uma plataforma simples, objetiva, exclusiva e funcional.</p>
+<h3>CRUD para atender a demanda de clientes</h3>
+<h4>2º Semestre • 2/2022 • <a href="https://github.com/alimkhodr/Projeto_API_TrackCash">Repositório Github</a></h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://trackcash.com.br/">Marketplaces e Plataformas</a></p>
+<p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/poc_img.png" widht="20%"></img>
+<p align="justify">POC, <a href="https://github.com/alimkhodr/Projeto_API_TrackCash">CRUD Para que a empresa TrackCash possa atender a demanda dos seus clientes, que são vendedores de lojas físicas e onlines e, assim, possam realizar o processo administrativo e financeiro.</p>
 <h3>Arquitetura do Projeto </h3>
-<p align="center"><img src="https://github.com/alimkhodr/PorfolioBancoDeDados/blob/main/2Sem/arquitetura_poc.png"></img></p>
+<p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/arquitetura_poc.png"></img></p>
 <br>
 <h3>Prévia da Solução </h3>
-<p align="justify">Com o objetivo de padronizar a inserção de dados das contas de água e energia, a aplicação desktop possibilita o cadastro de clientes e fornecedores de energia e/ou água, facilitando a obtenção dessas informações ao cadastrar uma nova conta. Além disso, a aplicação necessita apenas que o digitador insira os dados de interesse das contas de energia e/ou água, agilizando o processo de digitação.</p>
+<p align="justify">Criar uma aplicação Desktop Onde os usuários deem autorização, por meio de email/senha ou tokens para que o nosso cliente da TrackCash possa ter acesso a determinadas configurações como: API's e planilhas automatizadas, assim, o sistema salvará as informações necessárias.</p>
 <details>
   <summary><b>Funcionalidade Cadastrar Fornecedor e Conta</b></summary>
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img src="https://github.com/alimkhodr/PorfolioBancoDeDados/blob/main/2Sem/poc_app.gif" alt=""/>
+      <td alignt="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/poc_app.gif" alt=""/>
       </td>     
     </tr>
   </table>
@@ -64,7 +58,7 @@ departamento jurídico.</p>
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img src="https://github.com/alimkhodr/PorfolioBancoDeDados/blob/main/2Sem/api_correios.gif" alt=""/>
+      <td alignt="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/api_correios.gif" alt=""/>
       </td>     
     </tr>
   </table>
@@ -75,7 +69,7 @@ departamento jurídico.</p>
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img src="https://github.com/alimkhodr/PorfolioBancoDeDados/blob/main/2Sem/edit_poc.gif" alt=""/>
+      <td alignt="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/edit_poc.gif" alt=""/>
       </td>     
     </tr>
   </table>
