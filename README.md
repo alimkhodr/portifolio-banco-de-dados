@@ -76,9 +76,10 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 </details>
 <br>
 <h3>Tecnologias Utilizadas </h3>
-<p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação para front-end e back-end.</p>
+<p align="justify"><a href="https://www.java.com/pt-BR/">Java:</a> linguagem para desenvolvimento da aplicação para front-end e back-end.</p>
 <p align="justify"><a href="https://www.mysql.com/">MySQL:</a> SGBD para desenvolvimento do Banco de Dados.</p>
 <p align="justify"><a href="https://netbeans.apache.org/">Netbeans:</a> IDE utilizada para a programação da aplicação.</p>
+  <p align="justify"><a href="https://Canva.com/">Canva:</a> Site utilizado para a prototipação e desenvolvimento da apresentação.</p>
 <br>
 <h3>Contribuições Pessoais </h3>
 <p align="justify">Como parte do Scrum Team, fui responsável pela criação e prototipação da aplicação, e avancei nos estudos de UX/UI. Além disso, fui responsável pelo do modelo de dados da aplicação, criação de telas utilizando JAVA e o GUI Builder do Netbeans. Sendo as atividades desempenhadas:</p>
@@ -170,8 +171,8 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
   </table>
 </details>
 <br>
-<p align="justify"><b>Organização e Planejamento:</b>por ser uma nova linguagem era fundamental organizar e planejar nosso tempo em relação as sprints</p>
-<p align="justify"><b>Comunicação Assertiva:</b>Como no nosso grupo a maioria ja se conhecia há bastante tempo a comunicação não era um problema muito grande, sempre comuniquei o grpo do que está sendo feito</p>
+<p align="justify"><b>Organização e Planejamento: </b>Por ser uma nova linguagem era fundamental organizar e planejar nosso tempo em relação as sprints</p>
+<p align="justify"><b>Comunicação Assertiva: </b>Como no nosso grupo a maioria ja se conhecia há bastante tempo a comunicação não era um problema muito grande, sempre comuniquei o grpo do que estava sendo feito</p>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
 </di>
