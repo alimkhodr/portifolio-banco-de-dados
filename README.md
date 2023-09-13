@@ -53,7 +53,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
   </table>
 </details>
-<p align="justify">Descrição da Funcionalidade 2</p>
+<p align="justify">Descrição da Funcionalidade 1</p>
 <details>
   <summary><b>Funcionalidade 2</b></summary>
   <br>
@@ -64,7 +64,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
   </table>
 </details>
-<p align="justify">Descrição da Funcionalidade 3</p>
+<p align="justify">Descrição da Funcionalidade 2</p>
 <details>
   <summary><b>Funcionalidade 3</b></summary>
   <br>
@@ -75,6 +75,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
   </table>
 </details>
+  <p align="justify">Descrição da Funcionalidade 3</p>
 <br>
 <h3>Tecnologias Utilizadas </h3>
 <p align="justify"><a href="https://www.java.com/pt-BR/">Java:</a> linguagem para desenvolvimento da aplicação para front-end e back-end.</p>
