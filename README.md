@@ -3,7 +3,7 @@
 apresentado à Faculdade de Tecnologia de São José dos Campos,
 como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 <hr>
-<h1>Sumário</h1>
+<h2>Sumário</h2>
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre2">
@@ -22,7 +22,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <hr>
-<h1>Sobre mim</h1>
+<h2>Sobre mim</h2>
 <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/Resume/AliMohamed.png" width="20%"></p>
 <p align="justify">Técnico em Desenvovimento de Sistemas pela Escola Técnica Estadual de São José dos Campos (ETEC), 
 e regularmente matriculado no 2º semestre do curso tecnólogo em Banco de Dados pela Faculdade de 
@@ -32,8 +32,8 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 <p align="center">• <a href="https://www.linkedin.com/in/alimohamedkhodr/">LinkedIn</a> • <a href="https://github.com/alimkhodr">GitHub</a> •</p>
 <hr>
 <div class="semestre2">
-<h3>CRUD para atender a demanda de clientes</h3>
-<h4>2º Semestre • 2/2022 • <a href="https://github.com/alimkhodr/Projeto_API_TrackCash">Repositório Github</a></h4>
+<h3>CRUD para atender a demanda de clientes • 2º Semestre 2/2022 • <a href="https://github.com/alimkhodr/Projeto_API_TrackCash">Repositório Github</a></h3>
+<h4></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://trackcash.com.br/">TrackCash Marketplaces e Plataformas</a></p>
 <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/trackcash.jpg" widht="20%"></img>
 <p align="justify">CRUD Para que a empresa TrackCash possa atender a demanda dos seus clientes, que são vendedores de lojas físicas e onlines e, assim, possam realizar o processo administrativo e financeiro.</p>
