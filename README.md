@@ -127,7 +127,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
       <td>★★★★★★★★☆☆</td>
     </tr>
     <tr>
-      <td>Scrum - Product Owner</td>
+      <td>Scrum - Dev Team</td>
       <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
