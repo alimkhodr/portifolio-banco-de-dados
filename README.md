@@ -89,9 +89,6 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
    <summary><b>UX/UI design.</b></summary>
   </details>
   <details>
-  <summary><b>Prototipação.</b></summary>
-  </details>
-  <details>
   <summary><b>Modelo de Dados.</b></summary>
   </details>
   <details>
