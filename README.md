@@ -85,7 +85,15 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 <br>
 <h3>Contribuições Pessoais </h3>
 <p align="justify">Como parte do Scrum Team, fui responsável pela criação e prototipação da aplicação, e avancei nos estudos de UX/UI. Além disso, fui responsável pelo do modelo de dados da aplicação, criação de telas utilizando JAVA e o GUI Builder do Netbeans. Sendo as atividades desempenhadas:</p>
-<details>
+  <details>
+  <summary><b>Desenvolvimento front-end utilizando GUI Builder.</b></summary>
+    a
+</details>
+    <details>
+  <summary><b>Funcção de visualizar a senha/b></summary>
+    a
+</details>
+  <details>
    <summary><b>UX/UI design.</b></summary>
   a
   </details>
@@ -93,10 +101,6 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
   <summary><b>Modelo de Dados.</b></summary>
     a
   </details>
-  <details>
-  <summary><b>Desenvolvimento front-end utilizando GUI Builder</b></summary>
-    a
-</details>
 <br>
 <h3>Lições Aprendidas </h3>
 <p align="justify">Tive o meu primeiro contato com programação em Java e com o Netbeans. Além disso, pude avançar em relação aos meus estudos como UX/UI designer.</p>
