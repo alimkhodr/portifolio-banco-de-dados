@@ -39,7 +39,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 <p align="justify">CRUD Para que a empresa TrackCash possa atender a demanda dos seus clientes, que são vendedores de lojas físicas e onlines e, assim, possam realizar o processo administrativo e financeiro.</p>
 <br>
 <h3>Arquitetura do Projeto </h3>
-<p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/MD.png"></img></p>
+<p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/ArquiteturaDoProjeto.png"></img></p>
 <br>
 <h3>Prévia da Solução </h3>
 <p align="justify">Criar uma aplicação Desktop Onde os usuários deem autorização, por meio de email/senha ou tokens para que o nosso cliente da TrackCash possa ter acesso a determinadas configurações como: API's e planilhas automatizadas, assim, o sistema salvará as informações necessárias.</p>
