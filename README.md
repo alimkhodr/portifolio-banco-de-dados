@@ -36,7 +36,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 <h4></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://trackcash.com.br/">TrackCash Marketplaces e Plataformas</a></p>
 <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/trackcash.jpg" widht="20%"></img>
-<p align="justify">Desenvolver um CRUD (Create, Read, Update, Delete) para que a empresa TrackCash.</p>
+<p align="justify">Desenvolver um CRUD (Create, Read, Update, Delete) para a empresa TrackCash.</p>
 <br>
 <h3>Arquitetura do Projeto </h3>
 <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/ArquiteturaDoProjeto.png"></img></p>
