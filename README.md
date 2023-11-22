@@ -70,7 +70,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img src="#" alt=""/>
+      <td alignt="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/exibir-senha.png" alt=""/>
       </td>     
     </tr>
   </table>
@@ -90,16 +90,16 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     a
 </details>
     <details>
-  <summary><b>Funcção de visualizar a senha/b></summary>
-    a
+  <summary><b>Função de visualizar a senha</b></summary>
+    <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/exibir-senha.png"></img></p>
 </details>
   <details>
    <summary><b>UX/UI design.</b></summary>
-  a
+  <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/TrackCash-prototipo.png"></img></p>
   </details>
   <details>
   <summary><b>Modelo de Dados.</b></summary>
-    a
+    <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/MD.png"></img></p>
   </details>
 <br>
 <h3>Lições Aprendidas </h3>
