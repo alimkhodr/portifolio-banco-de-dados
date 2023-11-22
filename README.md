@@ -108,7 +108,9 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
   </details>
 <br>
 <h3>Lições Aprendidas </h3>
-<p align="justify">Tive o meu primeiro contato com programação em Java e com o Netbeans. Além disso, pude avançar em relação aos meus estudos como UX/UI designer.</p>
+<p align="justify">Durante meu envolvimento no projeto de desenvolvimento em Java no NetBeans, concentrei-me na área do design, especialmente no GUI Builder e prototipação. A experiência permitiu uma compreensão profunda da interligação entre design de UX/UI e funcionalidade do software.
+Trabalhar no GUI Builder foi fundamental para criar interfaces intuitivas, priorizando a estética e usabilidade. Explorar Java e MySQL complementou minha contribuição, oferecendo insights sobre a integração de design e desenvolvimento para criar interações dinâmicas.
+Além do conhecimento técnico, aprendi sobre a importância da colaboração entre designers e desenvolvedores para alcançar um produto final coeso. Levo comigo a compreensão da sinergia entre design e programação, essencial para o sucesso de projetos de software.</p>
 <h3>Hard Skills </h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
