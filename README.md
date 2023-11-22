@@ -53,7 +53,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
   </table>
 </details>
-<p align="justify">Descrição da Funcionalidade 1</p>
+<p align="justify">Função que adiciona canais no sistema, todos os usuários podem adicionar novos canais</p>
 <details>
   <summary><b>Visualizar e pesquisar canais</b></summary>
   <br>
@@ -64,7 +64,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
   </table>
 </details>
-<p align="justify">Descrição da Funcionalidade 2</p>
+<p align="justify">Visualização dos canais do sistema, todos os usuários podem visuaizar os canais</p>
 <details>
   <summary><b>Editar/Deletar canais</b></summary>
   <br>
@@ -75,7 +75,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
   </table>
 </details>
-  <p align="justify">Descrição da Funcionalidade 3</p>
+  <p align="justify">Função de editar ou excluir canais do sistema, e somente o administrador pode utilizar está função</p>
 <br>
 <h3>Tecnologias Utilizadas </h3>
 <p align="justify"><a href="https://www.java.com/pt-BR/">Java:</a> linguagem para desenvolvimento da aplicação para front-end e back-end.</p>
@@ -88,19 +88,23 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
   <details>
   <summary><b>Desenvolvimento front-end utilizando GUI Builder.</b></summary>
         <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/API-4ºSprint_REC.gif"></img></p>
+        <p align="justify">Toda a parte visual da aplicação, alinhamento das textbox/comboBox, botões, painéis, logos e padronização das cores do sistema, tudo desenvolvido no NetBeans o GUI Builder(Construtor de interface gráfica).</p>
 </details>
     <details>
   <summary><b>Função de visualizar a senha</b></summary>
    <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/TrackCash-olhomagico.gif"></img></p>
     <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/exibir-senha.png"></img></p>
+          <p align="justify">Um pequeno código somente para a vizualização da senha, ultilizado para saber se está digitando a senha correta.</p>
 </details>
   <details>
    <summary><b>UX/UI design.</b></summary>
   <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/TrackCash-prototipo.png"></img></p>
+      <p align="justify">O UX/UI neste caso foi toda a prototipação do projeto, ela é feita antes de começar a programação da aplicação, assim o que precisa ser feito fica mais claro e mais organizado.</p>
   </details>
   <details>
   <summary><b>Modelo de Dados.</b></summary>
     <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/MD.png"></img></p>
+    <p align="justify">O modelo de dados (MD) é importante para a organização do banco de dados da aplicação, ela é feita antes da criação do banco para dar mais clareza do que será preciso no banco para a aplicação.</p>
   </details>
 <br>
 <h3>Lições Aprendidas </h3>
@@ -116,15 +120,15 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
     <tr>
       <td>Java</td>
-      <td>★★★☆☆☆☆☆☆☆</td>
+      <td>★★★★★☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>Front-end</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
     <tr>
       <td>Modelagem de Banco de Dados</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
     <tr>
       <td>MySQL</td>
@@ -132,15 +136,15 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
     <tr>
       <td>Canva</td>
-      <td>★★★★★★★★☆☆</td>
+      <td>★★★★★★★★★★</td>
     </tr>
     <tr>
       <td>Scrum - Dev Team</td>
-      <td>★★★★★☆☆☆☆☆</td>
+      <td>★★★★★★★☆☆☆</td>
     </tr>
     <tr>
       <td>UX/UI design</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
   </table>
 </details>
@@ -163,7 +167,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
     <tr>
       <td>Empatia</td>
@@ -175,11 +179,11 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★★☆</td>
     </tr>
     <tr>
       <td>Resiliência</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★★★★★☆☆</td>
     </tr>
   </table>
 </details>
