@@ -87,23 +87,23 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
 <p align="justify">Como parte do Scrum Team, fui responsável pela criação e prototipação da aplicação, e avancei nos estudos de UX/UI. Além disso, fui responsável pelo do modelo de dados da aplicação, criação de telas utilizando JAVA e o GUI Builder do Netbeans. Sendo as atividades desempenhadas:</p>
   <details>
   <summary><b>Desenvolvimento front-end utilizando GUI Builder.</b></summary>
-        <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/API-4ºSprint_REC.gif"></img></p>
+        <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/API-4ºSprint_REC.gif"></img></td>
         <p align="justify">Toda a parte visual da aplicação, alinhamento das textbox/comboBox, botões, painéis, logos e padronização das cores do sistema, tudo desenvolvido no NetBeans o GUI Builder(Construtor de interface gráfica).</p>
 </details>
     <details>
   <summary><b>Função de visualizar a senha</b></summary>
-   <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/TrackCash-olhomagico.gif"></img></p>
-    <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/exibir-senha.png"></img></p>
+   <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/TrackCash-olhomagico.gif"></img></td>
+    <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/exibir-senha.png"></img></td>
           <p align="justify">Um pequeno código somente para a vizualização da senha, ultilizado para saber se está digitando a senha correta.</p>
 </details>
   <details>
    <summary><b>UX/UI design.</b></summary>
-  <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/TrackCash-prototipo.png"></img></p>
+  <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/TrackCash-prototipo.png"></img></td>
       <p align="justify">O UX/UI neste caso foi toda a prototipação do projeto, ela é feita antes de começar a programação da aplicação, assim o que precisa ser feito fica mais claro e mais organizado.</p>
   </details>
   <details>
   <summary><b>Modelo de Dados.</b></summary>
-    <p align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/MD.png"></img></p>
+    <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/MD.png"></img></td>
     <p align="justify">O modelo de dados (MD) é importante para a organização do banco de dados da aplicação, ela é feita antes da criação do banco para dar mais clareza do que será preciso no banco para a aplicação.</p>
   </details>
 <br>
