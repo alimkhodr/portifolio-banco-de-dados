@@ -106,6 +106,11 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/MD.png"></img></td>
     <p align="justify">O modelo de dados (MD) é importante para a organização do banco de dados da aplicação, ela é feita antes da criação do banco para dar mais clareza do que será preciso no banco para a aplicação.</p>
   </details>
+    <details>
+  <summary><b>Banco de dados MySql</b></summary>
+    <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/BandoDeDados.png"></img></td>
+    <p align="justify">Banco de dados da aplicação</p>
+  </details>
 <br>
 <h3>Lições Aprendidas </h3>
 <p align="justify">Durante meu envolvimento no projeto de desenvolvimento em Java no NetBeans, concentrei-me na área do design, especialmente no GUI Builder e prototipação. A experiência permitiu uma compreensão profunda da interligação entre design de UX/UI e funcionalidade do software.</p>
