@@ -108,7 +108,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
   </details>
     <details>
   <summary><b>Banco de dados MySql</b></summary>
-    <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/BandoDeDados.png"></img></td>
+    <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/BancoDeDados.png"></img></td>
     <p align="justify">Banco de dados da aplicação</p>
   </details>
 <br>
