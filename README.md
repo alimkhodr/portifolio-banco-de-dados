@@ -109,7 +109,7 @@ desenvolvendo ASP.NET Web Application em Visual Basic e C#, Windows Forms Applic
     <details>
   <summary><b>Banco de dados MySql</b></summary>
     <td align="center"><img src="https://github.com/alimkhodr/PortifolioBancoDeDados/blob/main/2Sem/BancoDeDados.png"></img></td>
-    <p align="justify">Banco de dados da aplicação</p>
+    <p align="justify">Banco de dados da aplicação, neste código foi feita criação da tabela do administrador, dos canais, doas canais do administrador, dos usuários, definição da chave primaria e outras modificações</p>
   </details>
 <br>
 <h3>Lições Aprendidas </h3>
