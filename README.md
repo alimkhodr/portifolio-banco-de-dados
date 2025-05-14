@@ -34,16 +34,44 @@ Além disso, tenho noções de infraestrutura em nuvem, com experiência básica
   - [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
   - [Sumário](#sumário)
   - [Meus Projetos](#meus-projetos)
-    - [Em 2022-2 (ADS)](#em-2022-2-ads)
+    - [Em 2022-1 (ADS)](#em-2022-1-ads)
       - [Empresa Parceira](#empresa-parceira)
       - [Problema](#problema)
       - [Solução Entregue](#solução-entregue)
       - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+    - [Em 2022-2 (ADS)](#em-2022-2-ads)
+      - [Empresa Parceira](#empresa-parceira-1)
+      - [Problema](#problema-1)
+      - [Solução Entregue](#solução-entregue-1)
+      - [Tecnologias Utilizadas](#tecnologias-utilizadas-1)
       - [Contribuições Pessoais](#contribuições-pessoais)
       - [Hard Skills](#hard-skills)
       - [Soft Skills](#soft-skills)
 
 ## Meus Projetos
+
+### Em 2022-1 (ADS)
+
+#### Empresa Parceira 
+Neste projeto, o cliente foi a própria FATEC São José dos Campos, com foco em um sistema para apoio a estudantes e profissionais da área de tecnologia.
+
+#### Problema
+A coordenação da FATEC identificou a dificuldade dos alunos em encontrar oportunidades de trabalho adequadas ao seu perfil, especialmente na área de TI. As vagas estavam dispersas em múltiplas plataformas, sem organização centralizada, dificultando o acompanhamento por parte dos alunos e da instituição. Além disso, não havia uma forma eficiente de mapear as competências exigidas pelo mercado em relação às formações ofertadas, limitando a análise estratégica por parte dos coordenadores de curso.
+
+#### Solução Entregue
+Foi desenvolvido um Sistema Web com o objetivo de automatizar a catalogação de vagas de emprego, com ênfase na área de Tecnologia da Informação. O sistema permite a consulta e o registro de vagas organizadas por tipos de conhecimento, habilidades técnicas, competências comportamentais e requisitos exigidos pelo mercado.
+A aplicação foi estruturada em cinco páginas principais, conforme os requisitos da FATEC:
+
+- Página Principal do Projeto
+- Vagas de Emprego
+- Cursos e Certificações
+- Métricas (conhecimentos, habilidades e requisitos)
+- Localização (visualização geográfica de vagas e cursos)
+
+#### Tecnologias Utilizadas  
+- **Python**: Linguagem para desenvolvimento da aplicação.
+- **HTML e CSS**: Para construção das páginas.
+- **Framework Bootstrap**: Para facilitar a responsividade e o design moderno
 
 ### Em 2022-2 (ADS)
 
