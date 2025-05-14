@@ -1,7 +1,7 @@
 # Ali Mohamed Khodr
 
 <p align="left">
-  <img src="Resume/ali-mohamed.png" alt="Ali Mohamed Khodr" width="160" style="border-radius: 8px; margin-right: 20px; float: left;">
+  <img src="Resume/ali-mohamed.png" alt="Ali Mohamed Khodr" width="200" style="border-radius: 8px; margin-right: 20px; float: center;">
 </p>
 
 **Introdução**  
