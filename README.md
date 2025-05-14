@@ -28,6 +28,21 @@ Tenho familiaridade com metodologias ágeis, como o Scrum, e experiência práti
 
 Além disso, tenho noções de infraestrutura em nuvem, com experiência básica em serviços da AWS, e conhecimentos iniciais em Docker, contribuindo para ambientes de desenvolvimento mais organizados e escaláveis.
 
+## Sumário
+- [Ali Mohamed Khodr](#ali-mohamed-khodr)
+  - [Contatos](#contatos)
+  - [Meus Principais Conhecimentos](#meus-principais-conhecimentos)
+  - [Sumário](#sumário)
+  - [Meus Projetos](#meus-projetos)
+    - [Em 2022-2 (ADS)](#em-2022-2-ads)
+      - [Empresa Parceira](#empresa-parceira)
+      - [Problema](#problema)
+      - [Solução Entregue](#solução-entregue)
+      - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+      - [Contribuições Pessoais](#contribuições-pessoais)
+      - [Hard Skills](#hard-skills)
+      - [Soft Skills](#soft-skills)
+
 ## Meus Projetos
 
 ### Em 2022-2 (ADS)
