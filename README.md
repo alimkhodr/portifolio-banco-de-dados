@@ -99,7 +99,7 @@ Banco de dados da aplicação, neste código foi feita criação da tabela do ad
 
 #### Hard Skills  
 <details>
-  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <summary>Clique para ver a lista de hard skills</summary>
   <br>
   <table align="center">
     <tr>
@@ -139,7 +139,7 @@ Banco de dados da aplicação, neste código foi feita criação da tabela do ad
 
 #### Soft Skills  
 <details>
-<summary><b>Clique para ver a lista de soft skills</b></summary>
+<summary>Clique para ver a lista de soft skills</summary>
   <br>
   <table align="center">
     <tr>
